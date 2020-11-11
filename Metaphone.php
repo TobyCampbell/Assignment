@@ -27,10 +27,8 @@ if(isset($_POST['submit'])){
 	<title>Metaphone</title>
 	<link rel="shortcut icon" href="tobechukwu.jpg">
 	<meta charset="UTF-8">
-	<meta name="discription" content="this is the backgroung study of the nigerian foreign exchange market">
-	<meta name="keywords" content="The background study of the nigerian foreign exchange market,study of foreign exchange market in nigeria, exchane markets in nigeria">
 	<meta name="view port" content="width=device-width,initial-scale=1.0">
-	<meta name="project" content="Ugwu Tobechukwu">
+	<meta name="Assignment" content="Ugwu Tobechukwu">
 
 	<style>
 		.submit{
